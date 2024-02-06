@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\bin\Debug\net8.0\CarrosVendidos.exe
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\bin\Debug\net8.0\CarrosVendidos.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\bin\Debug\net8.0\CarrosVendidos.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\bin\Debug\net8.0\CarrosVendidos.dll
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\bin\Debug\net8.0\CarrosVendidos.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\obj\Debug\net8.0\CarrosVendidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\obj\Debug\net8.0\CarrosVendidos.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\obj\Debug\net8.0\CarrosVendidos.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\obj\Debug\net8.0\CarrosVendidos.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\obj\Debug\net8.0\CarrosVendidos.dll
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\obj\Debug\net8.0\refint\CarrosVendidos.dll
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\obj\Debug\net8.0\CarrosVendidos.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\obj\Debug\net8.0\CarrosVendidos.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\CarrosVendidos\CarrosVendidos\obj\Debug\net8.0\ref\CarrosVendidos.dll

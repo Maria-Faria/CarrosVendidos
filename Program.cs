@@ -6,3 +6,35 @@ Dictionary<string, List<int>> vendasCarros = new Dictionary<string, List<int>> {
     {"Pagani Huayra", new List<int>{4, 5, 6, 5, 4}},
     {"Ferrari LaFerrari", new List<int>{7, 6, 5, 8, 10}}
 };
+
+string car;
+
+Console.Write("Informe o nome do carro que deseja consultar: ");
+car = Console.ReadLine()!;
+
+while (!carroExiste(car))
+{
+    Console.Write("\nCarro não encontrado! Tente novamente ou digite -1 para sair: ");
+    car = Console.ReadLine()!;
+
+    if(car.Equals("-1"))
+    {
+        Console.WriteLine("Saindo...");
+        break;    
+    }
+}
+
+if(car != "-1")
+{
+    Console.WriteLine($"\nMédia de carros {car} vendidos por ano: {vendasCarros[car].Average()}");
+
+}
+Boolean carroExiste(string car)
+{
+    if (vendasCarros.ContainsKey(car))
+    {
+        return true;
+    }
+
+    return false;
+}
